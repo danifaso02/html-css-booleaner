@@ -11,12 +11,44 @@
 
 .titolo{
     font-size: 60px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.data{
+    color: #808080;
+}
+
+#lista{
+    padding: 15px;
 }
 
 thead{
     background-color: #20A9E5;
+    color: white;
 }
 
 .azzurro{
     background-color: #B1E5F2;
 }
+
+#interesse{
+    color: #808080;
+}
+
+#computer{
+    background-image: url(../img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+    font-size: 20px;
+    color: white;
+}
+
+#grafica{
+    background-image: url(../img/graph.jpg);
+    width: 312px;
+    height: 208px;
+    font-size: 20px;
+    color: white;
+}
+
