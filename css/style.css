@@ -1,0 +1,14 @@
+.patt{
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+}
+
+#logo{
+   width: 200px;
+   height: 100px;;
+}
+
+.titolo{
+    font-size: 60px;
+}
