@@ -1,12 +1,13 @@
 .patt{
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
-    background-repeat: repeat-x;
+    height: 120px;
+    background-size: 25%;
 }
 
 #logo{
-   width: 200px;
-   height: 100px;;
+   height: 60px;
+   padding-top: 60px;
 }
 
 .titolo{
@@ -52,3 +53,7 @@ thead{
     color: white;
 }
 
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
